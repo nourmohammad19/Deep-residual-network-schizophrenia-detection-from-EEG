@@ -30,5 +30,5 @@ link to the main paper : https://link.springer.com/article/10.1007/s13246-023-01
   
    ```bash
    cd src
+   
    python train.py
-     
