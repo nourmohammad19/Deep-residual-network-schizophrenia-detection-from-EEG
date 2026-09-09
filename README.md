@@ -25,10 +25,10 @@ link to the main paper : https://link.springer.com/article/10.1007/s13246-023-01
 *  Now your data is ready to be trained on
 
 4. train the model
+   
 *  You can now easily train the model by running the train.py code
-*  
+  
    ```bash
    cd src
-   
    python train.py
      
