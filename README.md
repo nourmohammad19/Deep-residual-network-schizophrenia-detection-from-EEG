@@ -4,7 +4,7 @@ A deep learning implementation of residual networks (ResNets) for automated schi
 link to the main paper : https://link.springer.com/article/10.1007/s13246-023-01225-8
 
 
-## isntalation
+## installation
 1. clone the repository
 
    ```bash
